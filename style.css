@@ -19,6 +19,8 @@ body {
     background-color: black;
     background-size: cover;
     background-position: center;
+    z-index: -1;
+    filter: grayscale();
 }
 
 .hero{
