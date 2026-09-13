@@ -17,7 +17,7 @@ const w = (n, e, o, t, l, d) => {
 };
 /*!
  * Project : simplyCountdown.js
- * Date : 2024-12-29
+ * Date : 2026-09-20
  * License : MIT
  * Version : 3.0.1
  * Author : Vincent Loy-Serre
