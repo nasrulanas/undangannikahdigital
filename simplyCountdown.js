@@ -17,7 +17,7 @@ const w = (n, e, o, t, l, d) => {
 };
 /*!
  * Project : simplyCountdown.js
- * Date : 2026-09-20
+ * Date : 2026-9-20
  * License : MIT
  * Version : 3.0.1
  * Author : Vincent Loy-Serre
@@ -29,7 +29,7 @@ const w = (n, e, o, t, l, d) => {
  */
 const m = {
   year: 2026,
-  month: 09,
+  month: 9,
   day: 20,
   hours: 0,
   minutes: 0,
